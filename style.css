@@ -1,5 +1,5 @@
-nav{background-color: aqua;
-border-radius:  5%;
+nav{background-color: red;
+
 }
 ul{display: flex;}
 li{margin: 2%;font-size: 25px;list-style-type:none;}
@@ -13,6 +13,7 @@ h1,h2,h4 {
 img {
 
     width: 200px;
+    top: -23;
 }
 a{
     color :black;
@@ -23,6 +24,5 @@ a{
 #background{
    width: 100%;
    position: relative;
-   top:-15px;
-
+   
 }
