@@ -1,3 +1,27 @@
-nav{background-color: aqua;}
+nav{background-color: aqua;
+border-radius:  5%;
+}
 ul{display: flex;}
 li{margin: 2%;font-size: 25px;list-style-type:none;}
+body{
+    background-color: black;
+}
+h1,h2,h4 {
+    color: white;
+}
+img {
+
+    width: 200px;
+}
+a{
+    color :black;
+    font-family:fantasy;
+    font-size:23px;
+    text-decoration: none;
+}
+#background{
+   width: 100%;
+   position: relative;
+   top:-15px;
+
+}
